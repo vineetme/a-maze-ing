@@ -6,4 +6,3 @@ EXIT=9,9
 OUTPUT_FILE=maze.txt
 PERFECT=True
 SEED=42
-EOF
